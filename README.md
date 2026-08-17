@@ -1,7 +1,5 @@
 # 🚌 Last Marshrutka
 
-![Last Marshrutka Logo](https://via.placeholder.com/800x300)
-
 ## 📌 О проекте
 
 **Last Marshrutka** — это симулятор жизни, созданный на игровом движке **Unity**.
